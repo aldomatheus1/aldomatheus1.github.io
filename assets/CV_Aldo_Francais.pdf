@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj
+ <</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+ <</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+ <</Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources <</Font <</F1 4 0 R /F2 5 0 R>>>> /Contents 6 0 R>>
+endobj
+4 0 obj
+ <</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+5 0 obj
+ <</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+6 0 obj
+ <</Length 3922>>
+stream
+BT /F2 19 Tf 1 0 0 1 42 790 Tm (ALDO MATHEUS AQUINO DE FRANCA) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 761 Tm (ETUDIANT EN GENIE ELECTRIQUE | ELECTRONIQUE & TELECOMMUNICATIONS) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 738 Tm (Toulouse, France | matheusaldo0123@gmail.com | linkedin.com/in/aldomatheus1) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 725 Tm (CV academique : lattes.cnpq.br/7879586028080183) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 707 Tm (Etudiant en genie electrique a l'UFRN, en mobilite academique a Toulouse INP-ENSEEIHT.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 694 Tm (Projets techniques en electronique, telecommunications, Python et VHDL, et experience de) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 681 Tm (coordination de projets, d'equipes et d'accompagnement pedagogique.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 667 m 553 667 l S
+BT /F2 10.4 Tf 1 0 0 1 42 656 Tm (FORMATION) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 636 Tm (2026-present   Toulouse INP-ENSEEIHT \(N7\), France - Parcours Electronique \(3EA\), BRAFITEC/CAPES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 623 Tm (2023-present   Universite federale du Rio Grande do Norte \(UFRN\) - Genie electrique) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 610 Tm (2019-2023      Institut federal du Rio Grande do Norte \(IFRN\) - Diplome technique informatique) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 596 m 553 596 l S
+BT /F2 10.4 Tf 1 0 0 1 42 585 Tm (EXPERIENCES & RESPONSABILITES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 565 Tm (2023-2026      PET Genie electrique, UFRN - Boursier et responsable associatif) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 552 Tm (                       Directeur des projets : coordination des projets d'un groupe de 21 membres.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 539 Tm (                       Directeur de la gestion des personnes : encadrement de 5 membres.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 526 Tm (                       Organisation du recrutement 2026 et evaluation des candidatures.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 513 Tm (Fev-juin 2022 Stage informatique, Secretariat municipal de l'environnement, Bresil) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 500 Tm (                       Maintenance informatique, configuration de logiciels, reseaux et peripheriques.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 486 m 553 486 l S
+BT /F2 10.4 Tf 1 0 0 1 42 475 Tm (PROJETS TECHNIQUES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 455 Tm (Emetteur audio infrarouge FM \(2026\)) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 442 Tm (  Conception/simulation : filtrage 50 Hz-6 kHz, VCO 200 kHz et commande de DEL IR.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 429 Tm (Processeur VHDL 16 bits \(2026\)) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 416 Tm (  Architecture pedagogique load/store : 8 registres, UAL, memoires et controle par automate.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 403 Tm (Prototype de capteur de stationnement Arduino) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 390 Tm (  Demonstrateur pedagogique pour des actions de vulgarisation scientifique.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 376 m 553 376 l S
+BT /F2 10.4 Tf 1 0 0 1 42 365 Tm (ENSEIGNEMENT & ENGAGEMENT) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 345 Tm (Animation de 3 seances de pre-calcul/calcul pour environ 20 etudiants par groupe.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 332 Tm (Organisation de workshops en genie electrique reunissant environ 50-70 personnes.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 319 Tm (Organisation de visites techniques d'un poste electrique 69 kV.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 305 m 553 305 l S
+BT /F2 10.4 Tf 1 0 0 1 42 294 Tm (COMPETENCES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 274 Tm (Python, VHDL, Arduino, MATLAB, LTspice/PSpice, LaTeX) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 261 Tm (Circuits analogiques, electronique, telecommunications, conception numerique, simulation) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 247 m 553 247 l S
+BT /F2 10.4 Tf 1 0 0 1 42 236 Tm (LANGUES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 216 Tm (Portugais : langue maternelle | Anglais : B2 | Francais : B1 \(DELF\)) Tj ET
+0.3 0.5 0.5 rg BT /F1 8 Tf 1 0 0 1 42 36 Tm (Academic portfolio - November 2026) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000057 00000 n 
+0000000113 00000 n 
+0000000244 00000 n 
+0000000313 00000 n 
+0000000387 00000 n 
+trailer
+<</Size 7 /Root 1 0 R>>
+startxref
+4359
+%%EOF

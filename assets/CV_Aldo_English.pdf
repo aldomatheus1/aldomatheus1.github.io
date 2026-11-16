@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj
+ <</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+ <</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+ <</Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources <</Font <</F1 4 0 R /F2 5 0 R>>>> /Contents 6 0 R>>
+endobj
+4 0 obj
+ <</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+5 0 obj
+ <</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+6 0 obj
+ <</Length 3908>>
+stream
+BT /F2 19 Tf 1 0 0 1 42 790 Tm (ALDO MATHEUS AQUINO DE FRANCA) Tj ET
+BT /F2 10 Tf 1 0 0 1 42 761 Tm (ELECTRICAL ENGINEERING | ELECTRONICS & TELECOMMUNICATIONS) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 738 Tm (Toulouse, France | matheusaldo0123@gmail.com | linkedin.com/in/aldomatheus1) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 725 Tm (Academic CV: lattes.cnpq.br/7879586028080183) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 707 Tm (Electrical Engineering student at UFRN, on international mobility at Toulouse INP-ENSEEIHT.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 694 Tm (Hands-on academic projects in electronics, telecommunications, Python and VHDL, combined) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 681 Tm (with leadership, mentoring and project coordination experience.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 667 m 553 667 l S
+BT /F2 10.4 Tf 1 0 0 1 42 656 Tm (EDUCATION) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 636 Tm (2026-present   Toulouse INP-ENSEEIHT \(N7\), France - Electronics pathway \(3EA\), BRAFITEC/CAPES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 623 Tm (2023-present   Federal University of Rio Grande do Norte \(UFRN\), Brazil - Electrical Engineering) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 610 Tm (2019-2023      Federal Institute of Rio Grande do Norte \(IFRN\) - Technical Diploma in IT) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 596 m 553 596 l S
+BT /F2 10.4 Tf 1 0 0 1 42 585 Tm (PROFESSIONAL EXPERIENCE & LEADERSHIP) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 565 Tm (2023-2026      PET Electrical Engineering, UFRN - Scholarship holder and student leader) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 552 Tm (                       Project Director: coordinated project work within a group of 21 members.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 539 Tm (                       People Management Director: supervised a team of 5 members.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 526 Tm (                       Coordinated the 2026 recruitment process and candidate assessment.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 513 Tm (Feb-Jun 2022   IT Intern, Municipal Environment and Tourism Department, Brazil) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 500 Tm (                       Computer maintenance; operating systems, network and peripheral setup.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 486 m 553 486 l S
+BT /F2 10.4 Tf 1 0 0 1 42 475 Tm (SELECTED ENGINEERING PROJECTS) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 455 Tm (Infrared FM audio transmitter \(2026\)) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 442 Tm (  Designed and simulated an audio filter \(50 Hz-6 kHz\), a 200 kHz VCO, and an IR LED driver.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 429 Tm (16-bit VHDL processor \(2026\)) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 416 Tm (  Academic load/store CPU with 8 registers, ALU, instruction/data memory and control FSM.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 403 Tm (Arduino parking sensor prototype) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 390 Tm (  Educational sensor demonstrator for engineering outreach.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 376 m 553 376 l S
+BT /F2 10.4 Tf 1 0 0 1 42 365 Tm (TEACHING & OUTREACH) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 345 Tm (Delivered 3 pre-calculus/calculus tutorials for groups of about 20 students.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 332 Tm (Helped organize electrical engineering workshops for approximately 50-70 participants.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 319 Tm (Workshops included guided visits to a 69 kV substation and university-industry engagement.) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 305 m 553 305 l S
+BT /F2 10.4 Tf 1 0 0 1 42 294 Tm (TECHNICAL SKILLS) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 274 Tm (Python, VHDL, Arduino, MATLAB, LTspice/PSpice, LaTeX) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 261 Tm (Analog circuits, electronics, telecommunications, digital design and simulation) Tj ET
+0.31 0.61 0.56 RG 0.8 w 42 247 m 553 247 l S
+BT /F2 10.4 Tf 1 0 0 1 42 236 Tm (LANGUAGES) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 42 216 Tm (Portuguese: native | English: B2 | French: B1 \(DELF\)) Tj ET
+0.3 0.5 0.5 rg BT /F1 8 Tf 1 0 0 1 42 36 Tm (Academic portfolio - November 2026) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000057 00000 n 
+0000000113 00000 n 
+0000000244 00000 n 
+0000000313 00000 n 
+0000000387 00000 n 
+trailer
+<</Size 7 /Root 1 0 R>>
+startxref
+4345
+%%EOF
